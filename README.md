@@ -4,3 +4,4 @@
 '- [Как просмотреть историю](./log_help.md)' 
 '- [Как вернуться к прошлой версии](./reset_help.md)' 
 'This text is normal. Other text is in Russian' 
+'- [Ветвление](./branch_help.md)' 
